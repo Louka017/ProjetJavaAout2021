@@ -8,7 +8,7 @@ public class SpectacleConnection {
 
 private static Connection instance = null;
 	
-	private SpectacleConnection(){//donc constr prive
+	private SpectacleConnection(){//donc constr prive.
 		try{
 			Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
 			String url = "jdbc:ucanaccess://./DB_ProjetGaspariLoukaAout2021.accdb";
