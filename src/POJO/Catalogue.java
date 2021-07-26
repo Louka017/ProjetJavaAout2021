@@ -30,4 +30,5 @@ public class Catalogue implements Serializable {
 	public static List<Spectacle> getAllSpectacles() {
 		return dao.listeSpectacles();
 	}
+	
 }
