@@ -34,7 +34,7 @@ public abstract class AbstractDAOFactory {
 	
 	public abstract DAO<Catalogue> getCatalogueDAO();
 	
-	
+	//GetFactory
 	public static AbstractDAOFactory getFactory(int type){
 		switch(type){
 		case DAO_FACTORY:
