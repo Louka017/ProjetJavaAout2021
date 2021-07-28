@@ -28,7 +28,7 @@ public class Acceuil extends JFrame {
 	JMenuBar menuBar;
 	/**
 	 * Launch the application.
-	 */
+	 **/
 	public static void main(String[] args) 
 	{
 		EventQueue.invokeLater(new Runnable() 
