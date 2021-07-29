@@ -90,7 +90,7 @@ public class ClientPlaceJFrame extends JFrame {
 	}
 	/**
 	 * Create the frame.
-	 */
+	 **/
 	public ClientPlaceJFrame(Representation r, Client p, Spectacle s) 
 	{
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
