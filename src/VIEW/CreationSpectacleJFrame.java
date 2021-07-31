@@ -30,7 +30,7 @@ public class CreationSpectacleJFrame extends JFrame {
 
 	/**
 	 * 
-	 */
+	 **/
 	private static final long serialVersionUID = -3627746851033550424L;
 	//ATTRIBUTS
 	private int placeLibre,placeBronze,placeArgent, placeOr, placeDiamant;
