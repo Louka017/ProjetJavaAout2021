@@ -24,7 +24,7 @@ public class LoginJFrame extends JFrame {
 
 	/**
 	 * 
-	 */
+	 **/
 	private static final long serialVersionUID = 1772298076221977128L;
 	//ATTRIBUTS
 	InscriptionJFrame inscription = new InscriptionJFrame();
