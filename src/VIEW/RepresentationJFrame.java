@@ -34,7 +34,7 @@ public class RepresentationJFrame extends JFrame {
 
 	/**
 	 * 
-	 */
+	 **/
 	private static final long serialVersionUID = -8310341402980116981L;
 	private JPanel contentPane;
 	private JTextField HeureDebut;
